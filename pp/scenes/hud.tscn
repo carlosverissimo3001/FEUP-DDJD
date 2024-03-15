@@ -180,6 +180,7 @@ texture_disabled = ExtResource("9_fa35u")
 stretch_mode = 3
 
 [node name="Count" type="Label" parent="Eletrical"]
+visible = false
 offset_left = 611.667
 offset_top = 905.214
 offset_right = 643.667
@@ -207,6 +208,7 @@ texture_disabled = ExtResource("12_cs12f")
 stretch_mode = 3
 
 [node name="Count" type="Label" parent="Mechanical"]
+visible = false
 offset_left = 851.667
 offset_top = 905.214
 offset_right = 883.667
@@ -234,6 +236,7 @@ texture_disabled = ExtResource("15_fujxr")
 stretch_mode = 3
 
 [node name="Count" type="Label" parent="Physical_Shrink"]
+visible = false
 offset_left = 1089.67
 offset_top = 905.214
 offset_right = 1121.67
@@ -261,6 +264,7 @@ texture_disabled = ExtResource("15_1nxqj")
 stretch_mode = 3
 
 [node name="Count" type="Label" parent="Physical_Expand"]
+visible = false
 offset_left = 1330.67
 offset_top = 905.214
 offset_right = 1362.67

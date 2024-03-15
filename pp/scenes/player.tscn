@@ -48,8 +48,8 @@
 [ext_resource type="Texture2D" uid="uid://thri5kaee7lw" path="res://art/player/mechanical_walk/walk_06.png" id="30_3xbty"]
 [ext_resource type="Texture2D" uid="uid://b7xyak38p84lp" path="res://art/player/mechanical_walk/walk_07.png" id="31_0dof8"]
 [ext_resource type="Texture2D" uid="uid://dp0aoxd786uvn" path="res://art/player/mechanical_walk/walk_08.png" id="32_r6ix4"]
-[ext_resource type="Texture2D" path="res://art/thinking.png" id="49_m5ils"]
-[ext_resource type="AudioStream" path="res://sounds/powerup-on-player.wav" id="50_hhce5"]
+[ext_resource type="Texture2D" uid="uid://dq6mbbr6q8fcs" path="res://art/thinking.png" id="49_m5ils"]
+[ext_resource type="AudioStream" uid="uid://bn87q80dpyqy7" path="res://sounds/powerup-on-player.wav" id="50_hhce5"]
 
 [sub_resource type="SpriteFrames" id="SpriteFrames_4md7n"]
 animations = [{
